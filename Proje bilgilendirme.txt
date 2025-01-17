@@ -1,0 +1,5 @@
+Bu proje çamaşır randevusu oluşturma sistemidir. 
+Kullanıcılar ad , soyad, telefon numarası, çamaşır makinesi numarası ve tarih seçerek randevu ekleyebilirler.
+Randevu eklendikten sonra güncelleme ve silme gibi seçenekleri de vardır.
+Veritabanı olarak sqlite3, veritabanına erişim kütüphanesi olarak sqlalchemy ve  api olarak flask kullanılmıştır.
+Projede kullandığım kütüphaneleri text dosyası olarak ekledim.
